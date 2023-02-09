@@ -37,7 +37,7 @@ export const router = createBrowserRouter(
       },
       {
          path: "*",
-         element: <p>Page Not Found...</p>
+         element: <p className='flex justify-center items-center h-[600px]'>Page Not Found...</p>
       }
    ]
 )
