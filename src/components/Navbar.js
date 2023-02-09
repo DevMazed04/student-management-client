@@ -4,7 +4,7 @@ import { AiOutlineUser } from 'react-icons/ai';
 
 const Navbar = () => {
    return (
-      <div className="navbar mb-5 px-10">
+      <div className="navbar mb-5 px-14">
          <div className="navbar-start">
             <Link to="/"
                className="font-semibold text-xl">LOGO

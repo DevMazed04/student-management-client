@@ -13,7 +13,7 @@ const Main = () => {
                <LeftSideNav />
             </div>
 
-            <div className="col-span-1 md:col-span-2 lg:col-span-4 border">
+            <div className="col-span-1 md:col-span-2 lg:col-span-4   ">
                <Outlet />
             </div>
          </div>
